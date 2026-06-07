@@ -24,7 +24,7 @@ Projeto de um RPG educativo autoral desenvolvido em Godot como parte de uma **At
 *   **Embasamento Científico:** O design do jogo e suas regras foram fundamentados no estágio de **desenvolvimento operatório-concreto de Jean Piaget**, fase em que a criança aprimora a capacidade de pensar de forma lógica, organizada e de compreender a perspectiva alheia. Também foram utilizadas referências de Prensky (2001) sobre o engajamento no mundo digital.
 
 *    Experiência no desenvolvimento de projetos autorais de jogos, explorando desde escopos simples até sistemas de mecânicas mais complexas.
-*   **Portfólio de Arte:** Você pode conferir minhas criações de arte digital e concept arts diretamente no meu [Perfil do Instagram](https://www.instagram.com/arthlm).
+*   **Portfólio de Arte:** Você pode conferir minhas criações de arte digital e concept arts diretamente no meu [Perfil de artes no Instagram](https://www.instagram.com/arthlm).
 
 ---
 
