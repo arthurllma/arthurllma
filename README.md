@@ -33,7 +33,6 @@ Projeto de um RPG educativo autoral desenvolvido em Godot como parte de uma **At
 Dedico meu tempo de estudo para fortalecer minha base teórica e prática em computação, encarando os tópicos de maior complexidade como os próximos degraus da minha evolução:
 
 *    **Estrutura de Dados e Algoritmos:** Aperfeiçoando a organização, eficiência de algoritmos e resolução de problemas complexos de lógica.
-*    **POO (Programação Orientada a Objetos):** Revisitando e aprofundando padrões de projeto para criar códigos mais limpas, modulares e escaláveis para sistemas e jogos.
 
 ---
 
